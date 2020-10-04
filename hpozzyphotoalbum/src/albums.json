@@ -1,0 +1,118 @@
+{
+  "albums": [
+    {
+      "id": "1",
+      "title": "Seasons",
+      "thumbnailOne": "https://images.unsplash.com/photo-1568212429406-612e065e2167?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1601&q=80",
+      "photos": [
+        {
+          "name": "Fall",
+          "thumbnail": "https://images.unsplash.com/photo-1574514366389-3c4fef242ca9?ixlib=rb-1.2.1&auto=format&fit=crop&w=676&q=80"
+        },
+        {
+          "name": "Winter",
+          "thumbnail": "https://images.unsplash.com/photo-1459695452562-46cc57bef5f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "name": "Winter",
+          "thumbnail": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Kobe",
+      "thumbnailOne": "https://images.unsplash.com/photo-1532040683343-edbde6dd500d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1655&q=80",
+      "photos": [
+        {
+          "name": "Jersey",
+          "thumbnail": "https://images.unsplash.com/photo-1580149959218-3002c427a6dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        },
+        {
+          "name": "Be Kobe",
+          "thumbnail": "https://images.unsplash.com/photo-1559480671-12ceff3e511d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80"
+        },
+        {
+          "name": "Rip Kobe",
+          "thumbnail": "https://images.unsplash.com/photo-1580779372777-d66a3a324719?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2645&q=80"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Beach",
+      "thumbnailOne": "https://images.unsplash.com/photo-1535338611490-9926ac7e0eaf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2580&q=80",
+      "photos": [
+        {
+          "name": "Blue Ass Water",
+          "thumbnail": "https://images.unsplash.com/photo-1581523538092-041f257373a9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2689&q=80"
+        },
+        {
+          "name": "Sunset",
+          "thumbnail": "https://images.unsplash.com/photo-1575388107541-520c8c3e48ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "name": "Green Ass Water",
+          "thumbnail": "https://images.unsplash.com/photo-1519549204475-438065bd441a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1567&q=80"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Studio",
+      "thumbnailOne": "https://images.unsplash.com/photo-1563330232-57114bb0823c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80",
+      "photos": [
+        {
+          "name": "OVO",
+          "thumbnail": "https://images.unsplash.com/photo-1582481018551-38db6f31b2bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+        },
+        {
+          "name": "Drake Hands",
+          "thumbnail": "https://images.unsplash.com/photo-1521178010706-baefe2334211?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=975&q=80"
+        },
+        {
+          "name": "Kendrick",
+          "thumbnail": "https://images.unsplash.com/photo-1547842462-b552abdeb38a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Porsche",
+      "thumbnailOne": "https://images.unsplash.com/photo-1555596899-d634257b55bb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+      "photos": [
+        {
+          "name": "Old Porsche",
+          "thumbnail": "https://images.unsplash.com/photo-1534093607318-f025413f49cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "name": "Porsche By Singer",
+          "thumbnail": "https://images.unsplash.com/photo-1582457175145-e9000bb4b84b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=934&q=80"
+        },
+        {
+          "name": "Porsche GT3",
+          "thumbnail": "https://images.unsplash.com/photo-1562141959-f3be4985c59a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Fashion",
+      "thumbnailOne": "https://images.unsplash.com/photo-1601151971800-469e7315128f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80",
+      "photos": [
+        {
+          "name": "Cheetah Jacket",
+          "thumbnail": "https://images.unsplash.com/photo-1601143208203-f9f8dcc21e4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80"
+        },
+        {
+          "name": "Shortie In Blonde",
+          "thumbnail": "https://images.unsplash.com/photo-1551727974-8af20a3322f1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80"
+        },
+        {
+          "name": "Dude Leaning Back",
+          "thumbnail": "https://images.unsplash.com/photo-1599218422795-545e7e2f5eae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80"
+        }
+      ]
+    }
+  ]
+}

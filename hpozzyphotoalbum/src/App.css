@@ -1,0 +1,161 @@
+/* body {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.header {
+  border: 1px solid black;
+  background: #aaaaaa;
+  align-content: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wholeContainer {
+  border: 1px solid black;
+}
+
+.thumbNails {
+  height: 180px;
+  width: 180px;
+} */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  width: 100vw;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  border: 1px solid black;
+  height: 800px;
+}
+.mainHeader {
+  height: 130px;
+  width: 100%;
+  background: #aaaaaa;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.pageContent {
+  display: flex;
+  justify-content: space-between;
+  width: 85%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.mainHeader h3 {
+  font-size: 52px;
+  font-weight: 400;
+}
+.card {
+  height: 285px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+}
+.cardImage {
+  height: 250px;
+  width: 200px;
+  border: solid 1px black;
+}
+.cardLabel {
+  border-left: solid 1px black;
+  border-right: solid 1px black;
+  border-bottom: solid 1px black;
+  flex-grow: 1;
+}
+
+.cardImage img {
+  height: 100%;
+  width: 100%;
+}
+h3 {
+  display: flex;
+  justify-content: center;
+}
+
+.linkTags {
+  text-decoration: none;
+}
+
+.linkTags:visited {
+  color: black;
+}
+
+.sideBar {
+  position: absolute;
+  height: 645px;
+  width: 200px;
+  border-right: solid 3px black;
+  top: 130px;
+  text-align: center;
+}
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  width: 100%;
+  min-height: 100vh;
+  z-index: 1;
+  background: white;
+  font-size: 34px;
+}
+
+.modal img {
+  height: 600px;
+  width: 600px;
+  margin-top: 50px;
+  border: solid 3px black;
+}
+
+.modalLabel {
+  border: solid 3px black;
+  display: flex;
+  border: solid 3px black;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: #aaaaaa;
+}
+
+.sideBarLinks {
+  text-decoration: none;
+  color: black;
+}
+
+.sideAlbumNames {
+  list-style: none;
+  padding: 20px;
+  font-weight: bold;
+}
+
+.page2Content {
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin: auto;
+  margin-bottom: 50px;
+  position: absolute;
+  left: 220px;
+}
+
+.container2 {
+  width: 80%;
+  height: 780px;
+  margin: auto;
+  border: solid 3px black;
+  position: relative;
+}
